@@ -1,0 +1,12 @@
+{
+  "type": "woodsman.crafting",
+  "id": "woodsman.fire_plow",
+  "ingredients": [
+    { "item": "woodsman.stick", "amount": 2 },
+    { "item": "woodsman.straw", "amount": 2 }
+  ],
+  "result": {
+    "item": "woodsman.fire_plow",
+    "amount": "1"
+  }
+}

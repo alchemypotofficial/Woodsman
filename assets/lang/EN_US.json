@@ -1,0 +1,27 @@
+{
+  "woodsman.item.stick": "Stick",
+  "woodsman.item.flint": "Flint",
+  "woodsman.item.straw": "Straw",
+  "woodsman.item.clay": "Clay",
+  "woodsman.item.rock": "Rock",
+
+  "woodsman.item.oak_log": "Oak Log",
+
+  "woodsman.item.malachite_nugget": "Malachite Nugget",
+
+  "woodsman.item.flint_pickaxe": "Flint Pickaxe",
+  "woodsman.item.copper_pickaxe": "Copper Pickaxe",
+
+  "woodsman.item.flint_axe": "Flint Axe",
+  "woodsman.item.copper_axe": "Copper Axe",
+
+  "woodsman.item.flint_hammer": "Flint Hammer",
+  "woodsman.item.copper_hammer": "Copper Hammer",
+
+  "woodsman.item.fire_plow": "Fire Plow",
+
+  "woodsman.item.campfire": "Campfire",
+  "woodsman.item.chest": "Chest",
+
+  "woodsman.item.oak_sapling": "Oak Sapling"
+}

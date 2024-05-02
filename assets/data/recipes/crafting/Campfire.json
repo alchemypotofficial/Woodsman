@@ -1,0 +1,12 @@
+{
+  "type": "woodsman.crafting",
+  "id": "woodsman.campfire",
+  "ingredients": [
+    {"item": "woodsman.stick", "amount": 2},
+    {"item": "woodsman.oak_log", "amount": 3}
+  ],
+  "result": {
+    "item": "woodsman.campfire",
+    "amount": "1"
+  }
+}

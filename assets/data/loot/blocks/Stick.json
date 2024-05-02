@@ -1,0 +1,6 @@
+{
+  "id": "woodsman.stick",
+  "items": [
+    {"item": "woodsman.stick", "min": 1, "max": 1}
+  ]
+}

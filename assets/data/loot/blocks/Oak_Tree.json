@@ -1,0 +1,7 @@
+{
+  "id": "woodsman.oak_tree",
+  "items": [
+    {"item": "woodsman.stick", "min": 0, "max": 2},
+    {"item": "woodsman.oak_log", "min": 4, "max": 6}
+  ]
+}

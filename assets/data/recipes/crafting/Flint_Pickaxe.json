@@ -1,0 +1,12 @@
+{
+  "type": "woodsman.crafting",
+  "id": "woodsman.flint_pickaxe",
+  "ingredients": [
+    {"item": "woodsman.stick", "amount": 1},
+    {"item": "woodsman.flint", "amount": 2}
+  ],
+  "result": {
+    "item": "woodsman.flint_pickaxe",
+    "amount": "1"
+  }
+}

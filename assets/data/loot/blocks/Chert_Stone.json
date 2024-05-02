@@ -1,0 +1,6 @@
+{
+  "id": "woodsman.chert_stone",
+  "items": [
+    {"item": "woodsman.rock", "min": 2, "max": 4}
+  ]
+}
